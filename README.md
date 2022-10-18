@@ -1,19 +1,15 @@
 # Generating a README file
 
-      ## Description
-
-      - [Description](#description)
-      - [Installation](#installation)
-      - [Usage](#usage)
-      - [License](#license)
-      - [Contributing](#contributing)
-      - [Test](#test)
-      - [Questions](#questions)
+     
       
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Test](#test)
+- [Questions](#questions)
+
 
 
   
