@@ -34,6 +34,7 @@ You can quickly and easily generate a README file by using a command-line applic
       
       ## Installation
       
+      
       The steps requiered to run this application are the followings:
       - Make sure you are in the index.js directory.
       - Open the terminal 
