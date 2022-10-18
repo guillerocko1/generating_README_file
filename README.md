@@ -31,11 +31,8 @@ You can quickly and easily generate a README file by using a command-line applic
       - What did you learn?
       I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
 
-      
-      ## Installation
-      
-      
-      
+## Installation
+            
       The steps requiered to run this application are the followings:
       - Make sure you are in the index.js directory.
       - Open the terminal 
