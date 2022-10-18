@@ -10,7 +10,10 @@
       - [Test](#test)
       - [Questions](#questions)
       
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 
   
