@@ -1,135 +1,137 @@
-# Challege 9
+Request-Response
+The Full-Stack Blog
 
-      ## Description
+Deep
+Professional README Guide
+May 19, 2022
+Disponible en español
+A polished GitHub profile is an important part of your public identity as a developer. Why? For one thing, it will most likely be the first place that potential employers look to evaluate your skills and professionalism. And it also allows you to connect with and showcase your work to other developers, which can lead to interesting collaborations.
 
-      1. [ Description. ](#description)
-      2. [ Installation steps. ](#installation)
-      3. [ Usage Info. ](#usage)
-      4. [ License. ](#license)
-      5. [ Contributing. ](#contributing)
-      6. [ Test. ](#test)
-      7. [ Questions. ](#questions)
-      
+A key component of your profile, and one that many new developers overlook, is the README file that's associated with each respository. A README file acts like a virtual storefront to a repository—it's the first thing that a person sees when they visit a repo on GitHub. But it's also much more than that: README files contain essential information about the repo's project. Thus, the quality of a README file can differentiate a high-quality repo from a low-quality one.
 
+There's no one right way to structure a README file. There is one very wrong way, however, and that is to not include a README at all or to create a very sparse one.
 
-<a name="description"></a>
-## 1. Description
+To help you create high-quality READMEs from the start, this guide outlines some basic best practices for creating them. As you progress in your career, you'll develop your own ideas about what makes an effective README file.
 
-sometext
+What Should a High-Quality README Contain?
+A high-quality README file explains what your application does and why you used the technologies that you did. At a bare minimum, a README needs a title and a short description explaining the what, why, and how of the project.
 
-<a name="usage"></a>
-## 2. Usage tips
+Use the following questions as a guide:
 
-sometext
-      
-   <a name="description"></a>
-   ## 1. Description
+What was your motivation?
+Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+What problem does it solve?
+What did you learn?
+What makes your project stand out?
+Your README might also describe some of the challenges you faced, as well as the features you plan to implement in the future. And if your project is deployed, make sure to include a link to the deployed application so people can see it in action!
 
-   # Description of the project
-      Node.js Challenge: Professional README Generator
-   When creating an open source project on GitHub, it is important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions this last part increases the likelihood that other developers will contribute to the success of the project.
+How Do I Create a High-Quality README File?
+README files are written in Markdown, and are always named README.md (note that README is in all caps). If you're new to Markdown, refer to the GitHub guide on mastering markdown or search the internet for Markdown tutorials.
 
-You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+For a great example of a high-quality README file, visit Microsoft's VS Code repository.
 
-      
-      - What was your motivation?
-      This project is an amazing opportunity to develop a deep knowdledge about Nodejs, how to use inquirer and require package, beside that, this project allows to the students to put in practice in real time project, all this tools together in order to get genearate a README file.
-      - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-      I built this project because it will allow me to learn to generate a README file. The README file is very important for any project on Github, because it's the best way to let the users to understand our projects with all the important details.
-      - What problem does it solve?
-      The problems I faced meanwhile I was developing this project was to understand the way require and inquirer work. Also, It was a little difficult for me to find the best way to generate a README file because I was getting some extra characters in the generated file and it was difficult to read it.
-      - What did you learn?
-      I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
+Professional README Template
+We've provided a flexible template to use as a starting point, but feel free to adapt your README file to suit your project's particular needs.
 
-      
-      ## Table of Contents (Optional)
-      # Content
-      
-      <a name="installation"></a>
-      ## 2. Usage tips
-      If your README is long, add a table of contents to make it easy for users to find what they need.
-      
-      # 
-      - ## [Installation](#installation)
-      - ###### step 1
-      - ###### step 2
-      - ###### step 3
-      - ## [Usage](#usage)
-      - ## [Credits](#credits)
-      - ## [License](#license)
-      
-      ## Installation
-      
-      The steps requiered to run this application are the followings:
-      - Make sure you are in the index.js directory.
-      - Open the terminal 
-      - Type node index
-      - Answer all the information that will fill the README file up.
-      - Once the information is completed, the README file will be generated.
-      
-      ## Usage
-      <a name="usage"></a>
-      ## 3. Usage tips
-      # Very useful
+Use the following Markdown template to create a professional README file:
 
-      Provide instructions and examples for use. Include screenshots as needed.
-      
-      To add a screenshot, create an (image directory) folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-      
-          md
-          ![alt text](assets/images/screenshot.png)
-          
-      
-      ## Credits
-      
-      List your collaborators, if any, with links to their GitHub profiles.
-      
-      If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-      
-      If you followed tutorials, include links to those here as well.
-      
-      Links used to develop this application:
-      - https://www.npmjs.com/package/inquirer/v/8.2.4
-      - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-      - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
-      -https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
+# <Your-Project-Title>
 
+## Description
 
-      ## License
-      <a name="license"></a>
-      ## 4. Usage tips
-      # licens434243242
-      
-      The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-      
-      ---
-      
-      <� The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-      
-      
-      <a name="contributing"></a>
-      ## 5. Contributing
-      # joe killo
-      
-      ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-      
-      Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-      
-      ## Features
-      
-      If your project has a lot of features, list them here.
-      
-      ## How to Contribute
-      
-      If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-      
-      <a name="test"></a>
-      ## 6. Tests
-      # yes all of them
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-      Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
 
-      <a name="contributing"></a>
-      ## 7. Questions
-      $ no questions right now
-      
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Features
+
+If your project has a lot of features, list them here.
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
+
+This page was updated 5 months ago
+
+Category: github
+
+Tagged under: github, guide,
+
+All Posts
+Deploy with Heroku and MongoDB Atlas
+API Resources
+MySQL Installation Guide
+Heroku Deployment Guide
+MySQL Reference Guide
+How to Install MongoDB
+HTML Cheatsheet
+How to Use API Keys
+Video Submission Guide
+Using the GraphQL Playground in a MERN application
+Getting Started with Git
+Regular Expression Tutorial
+Professional README Guide
+How to Install the Heroku CLI
+Deploy with Heroku and MySQL
+How to Install NodeJS
+Set Up MongoDB Atlas
+What Makes Up a Web Development Project?
+A Growth Mindset for Life
+Developer Resources
+Web Literacy
+Introduction to Computer Structure and Organization
+Advanced Computer Skills
+Introduction to Computer Skills
