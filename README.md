@@ -2,13 +2,13 @@
 
       ## Description
 
-      - [ Description](#description)
-      - [ Installation](#installation)
-      - [ Usage Info](#usage)
-      - [ License](#license)
-      - [ Contributing](#contributing)
-      - [ Test](#test)
-      - [ Questions](#questions)
+      - [Description](#description)
+      - [Installation](#installation)
+      - [Usage](#usage)
+      - [License](#license)
+      - [Contributing](#contributing)
+      - [Test](#test)
+      - [Questions](#questions)
       
 
 
@@ -76,7 +76,7 @@ You can quickly and easily generate a README file by using a command-line applic
       
       ---
       
-      <Æ The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+      <Ã† The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
       
       
       
