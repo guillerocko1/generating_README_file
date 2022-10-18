@@ -40,8 +40,11 @@ You can quickly and easily generate a README file by using a command-line applic
       - Answer all the information that will fill the README file up.
       - Once the information is completed, the README file will be generated.
       
-      ## Usage
-      # very useful
+      
+     
+## Usage
+
+     # very useful
 
       Provide instructions and examples for use. Include screenshots as needed.
       
@@ -66,8 +69,8 @@ You can quickly and easily generate a README file by using a command-line applic
       -https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
 
 
-      ## License
-      
+## License
+
       # license 123456
       
       The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
@@ -76,9 +79,10 @@ You can quickly and easily generate a README file by using a command-line applic
       
       <Æ The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
       
-      
-      
-      ## Contributing
+    
+   ## Contributing
+
+     This is the list of people who have made this project possible thrugh theur contributions.
       # Ron John Paul Joe Guillerocko
       
       ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -93,14 +97,18 @@ You can quickly and easily generate a README file by using a command-line applic
       
       If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
       
-      
-      ## Test
+
+   ## Test
+    
       # yes all of them
 
       Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
       
-      ## Questions
+      
+     
+   ## Questions
+   
       
       $ no questions right now
       
