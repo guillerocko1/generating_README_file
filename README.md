@@ -35,6 +35,7 @@ You can quickly and easily generate a README file by using a command-line applic
       ## Installation
       
       
+      
       The steps requiered to run this application are the followings:
       - Make sure you are in the index.js directory.
       - Open the terminal 
@@ -96,12 +97,13 @@ You can quickly and easily generate a README file by using a command-line applic
       If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
       
       
-      ## Tests
+      ## Test
       # yes all of them
 
       Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
       
       ## Questions
+      
       $ no questions right now
       
