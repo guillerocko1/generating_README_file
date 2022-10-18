@@ -13,7 +13,7 @@
 
 
   
-   ## 1. Description
+  ## Description
 
    # This is an important project to learnto use require inquirer
       Node.js Challenge: Professional README Generator
