@@ -28,6 +28,7 @@
 - [Test](#test)
 - [Questions](#questions)
 
+---
 ## Description
 
       
@@ -47,7 +48,7 @@
             - What did you learn?
             I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
 
-
+---
 ## Installation
 
  
@@ -61,7 +62,7 @@
             - Once the information is completed, the README file will be generated.
             
 
-
+---
 ## Usage
 
        
@@ -89,7 +90,7 @@
             - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
             -https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
 
-
+---
 ## License
 
       
@@ -102,9 +103,10 @@
             <Æ The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
             
 
-
+---
 ## Contributing
 
+### :fire: My Stats :
       
            This is the list of people who have made this project possible thrugh theur contributions.
             # undefined
