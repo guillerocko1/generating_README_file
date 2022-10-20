@@ -27,7 +27,7 @@
       
 ---       
 ## Description
-This is one of the most important project of the bootcamp
+This project includes different technologies, combined make a powerfull applicacation that allows to the users to et learn how to use them
 
 ---
 # Installation
@@ -57,7 +57,7 @@ The steps requiered to run this application are the followings:
 ---          
 ## Usage
       
-# the user needs to open the video, follow the instructions and answer the questions
+# This software has a video, where the user can follow the steps to be used. The user needs to fill some questions out in on order to get information to be printed
       
 Provide instructions and examples for use. Include screenshots as needed.
             
@@ -127,4 +127,4 @@ Go the extra mile and write tests for your application. Then provide examples on
 ## Questions
 
 ## Github username: guillerocko1
-## Email address: guillemorocko@gmail.com
+## Email address: <a href = "mailto: guillermorocko@gmail.com">guillermorocko@gmail.com</a>
