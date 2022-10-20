@@ -1,4 +1,4 @@
-# aaaaaaaaaaaaaaaa
+# Challenge 9
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
      
 <div id="badges" align="center">
@@ -14,6 +14,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
       
+---
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,12 +25,13 @@
       
       
       
-        
+---       
 ## Description
-aaaaaaaaaaaaaa
-      
+This is one of the most important project of the bootcamp
+
+---
 # Installation
-aaa, bbbbb, cccccc
+open, read, execute
 
 - What was your motivation?
 This project is an amazing opportunity to develop a deep knowdledge about Nodejs, how to use inquirer and require package, beside that, this project allows to the students to put in practice in real time project, all this tools together in order to get genearate a README file.
@@ -39,7 +41,8 @@ I built this project because it will allow me to learn to generate a README file
 The problems I faced meanwhile I was developing this project was to understand the way require and inquirer work. Also, It was a little difficult for me to find the best way to generate a README file because I was getting some extra characters in the generated file and it was difficult to read it.
 - What did you learn?
 I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
-      
+
+---    
 ## Installation
 undefined
                   
@@ -51,16 +54,15 @@ The steps requiered to run this application are the followings:
 - Once the information is completed, the README file will be generated.
             
             
-           
+---          
 ## Usage
       
-# aaaaaaaaaaaaaa
+# the user needs to open the video, follow the instructions and answer the questions
       
 Provide instructions and examples for use. Include screenshots as needed.
             
 To add a screenshot, create an (image directory) folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
             
-md
 ![alt text](assets/images/screenshot.png)
                 
             
@@ -78,7 +80,7 @@ Links used to develop this application:
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
 -https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
       
-      
+---     
 ## License
       
 # MIT
@@ -89,11 +91,12 @@ The last section of a high-quality README file is the license. This lets other d
             
 < The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
             
-          
+---          
 ## Contributing
       
 This is the list of people who have made this project possible thrugh theur contributions.
 # guillerocko1
+
 
 ### :fire: My Stats :
 
@@ -113,17 +116,15 @@ If your project has a lot of features, list them here.
             
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
             
-      
+---     
 ## Test
           
-# aaaaaaaaaaaa
+# no
       
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-      
-            
-            
-           
+
+---
 ## Questions
-         
-            
-guillerocko1
+
+## Github username: guillerocko1
+## Email address: guillemorocko@gmail.com
