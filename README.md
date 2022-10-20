@@ -6,37 +6,13 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#License)
 - [Contributing](#contributing)
 - [Test](#test)
 - [Questions](#questions)
 
 ## Description
 
-
-
-## Installation
-
-
-
-
-## Usage
-
-
-
-## Contributing
-
-
-
-
-## Test
-
-
-
-## Questions
-      
-        
-        ## Description
-        this is an important project
       
          # This is an important project to learnto use require inquirer
             Node.js Challenge: Professional README Generator
@@ -53,9 +29,12 @@
             The problems I faced meanwhile I was developing this project was to understand the way require and inquirer work. Also, It was a little difficult for me to find the best way to generate a README file because I was getting some extra characters in the generated file and it was difficult to read it.
             - What did you learn?
             I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
-      
-      ## Installation
-      undefined
+
+
+## Installation
+
+ 
+   
                   
             The steps requiered to run this application are the followings:
             - Make sure you are in the index.js directory.
@@ -64,10 +43,11 @@
             - Answer all the information that will fill the README file up.
             - Once the information is completed, the README file will be generated.
             
-            
-           
-      ## Usage
-      
+
+
+## Usage
+
+       
            # veru useful
       
             Provide instructions and examples for use. Include screenshots as needed.
@@ -91,9 +71,10 @@
             - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
             - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
             -https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
-      
-      
-      ## License
+
+
+## License
+
       
             # license 232449dasfdaf
             
@@ -103,8 +84,10 @@
             
             <Æ The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
             
-          
-         ## Contributing
+
+
+## Contributing
+
       
            This is the list of people who have made this project possible thrugh theur contributions.
             # undefined
@@ -121,18 +104,39 @@
             
             If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
             
-      
-         ## Test
+
+
+## Test
+
+
           
             # All of them were taken
       
             Go the extra mile and write tests for your application. Then provide examples on how to run them here.
       
             
-            
-           
+
+## Questions
+      
+        
+             
          ## Questions
          
             
            no questions right now
       
+
+      
+     
+            
+           
+    
+      
+      
+      
+          
+        
+      
+        
+            
+        
