@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  https://komarev.com/ghpvc/?username=guillerocko1
+  <img src="https://komarev.com/ghpvc/?username=guillerocko1&style=flat-square&color=blue" alt=""/>
  </div>
 
 <h1>
