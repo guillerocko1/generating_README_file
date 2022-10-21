@@ -1,5 +1,5 @@
 # Challenge 9
-![MIT](https://img.shields.io/badge/license-MIT-blue)
+![BSD](https://img.shields.io/badge/license-BSD-red)
      
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=guillerocko1&style=flat-square&color=blue" alt=""/>
@@ -23,15 +23,9 @@
 - [Test](#test)
 - [Questions](#questions)
       
-      
-      
 ---       
 ## Description
-This project includes different technologies, combined make a powerfull applicacation that allows to the users to et learn how to use them
-
----
-# Installation
-open, read, execute
+This project include different technologies 
 
 - What was your motivation?
 This project is an amazing opportunity to develop a deep knowdledge about Nodejs, how to use inquirer and require package, beside that, this project allows to the students to put in practice in real time project, all this tools together in order to get genearate a README file.
@@ -44,27 +38,27 @@ I learned to combine require and inquirer. How important and useful is inquirer 
 
 ---    
 ## Installation
-undefined
+---
+# Installation
+run the index js, generate the README file 
                   
 The steps requiered to run this application are the followings:
 - Make sure you are in the index.js directory.
 - Open the terminal 
 - Type node index
-- Answer all the information that will fill the README file up.
+- Answer all the information that will fill out the README file .
 - Once the information is completed, the README file will be generated.
             
             
 ---          
 ## Usage
       
-# This software has a video, where the user can follow the steps to be used. The user needs to fill some questions out in on order to get information to be printed
+# watching the video and following the steps, answering the questions on the terminal 
       
 Provide instructions and examples for use. Include screenshots as needed.
             
 To add a screenshot, create an (image directory) folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-            
-![alt text](assets/images/screenshot.png)
-                
+                           
             
 ## Credits
             
@@ -83,13 +77,22 @@ Links used to develop this application:
 ---     
 ## License
       
-# MIT
-            
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-            
+# BSD
+
+---             
+## MIT License
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility
+
 ---
-            
-< The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+## GPL License
+The GNU General Public License (GNU GPL or simply GPL) is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software.[7] The license was the first copyleft for general use and was originally written by the founder of the Free Software Foundation (FSF), Richard Stallman, for the GNU Project. 
+---
+## BSD License
+BSD licenses are a family of permissive free software licenses, imposing minimal restrictions on the use and distribution of covered software. This is in contrast to copyleft licenses, which have share-alike requirements. The original BSD license was used for its namesake, the Berkeley Software Distribution (BSD), a Unix-like operating system. The original version has since been revised, and its descendants are referred to as modified BSD licenses.
+ 
+---Apache License
+The Apache License is a permissive free software license written by the Apache Software Foundation (ASF).It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties. The ASF and its projects release their software products under the Apache License. The license is also used by many non-ASF projects.
+
             
 ---          
 ## Contributing
