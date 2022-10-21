@@ -1,5 +1,5 @@
 # Challenge 9
-![BSD](https://img.shields.io/badge/license-BSD-red)
+![MIT](https://img.shields.io/badge/license-MIT-blue)
      
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=guillerocko1&style=flat-square&color=blue" alt=""/>
@@ -25,7 +25,7 @@
       
 ---       
 ## Description
-This project include different technologies 
+This project allows to the user to generate a README file combining require, inquirer, html and l
 
 - What was your motivation?
 This project is an amazing opportunity to develop a deep knowdledge about Nodejs, how to use inquirer and require package, beside that, this project allows to the students to put in practice in real time project, all this tools together in order to get genearate a README file.
@@ -40,7 +40,7 @@ I learned to combine require and inquirer. How important and useful is inquirer 
 ## Installation
 ---
 # Installation
-run the index js, generate the README file 
+run the index js, generate the README file and after that upload the README file to Github
                   
 The steps requiered to run this application are the followings:
 - Make sure you are in the index.js directory.
@@ -53,7 +53,7 @@ The steps requiered to run this application are the followings:
 ---          
 ## Usage
       
-# watching the video and following the steps, answering the questions on the terminal 
+# Following the steps on the video, answering the questions on the terminal
       
 Provide instructions and examples for use. Include screenshots as needed.
             
@@ -77,7 +77,7 @@ Links used to develop this application:
 ---     
 ## License
       
-# BSD
+# MIT
 
 ---             
 ## MIT License
@@ -119,12 +119,6 @@ If your project has a lot of features, list them here.
             
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
             
----     
-## Test
-          
-# no
-      
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
 ---
 ## Questions
